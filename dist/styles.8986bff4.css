@@ -1,0 +1,26 @@
+body {
+    background-image: url("/cow.f5caa59d.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#response-container {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+#response {
+    padding: 5px;
+    border-radius: 10%;
+    position: absolute;
+    right: 0;
+    bottom: 20px;
+    height:fit-content;
+    width: 40%;
+    color: #FF69B4;
+    font-size: 30px;
+}
+
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */
